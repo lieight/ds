@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/multidb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multidb_dynamic_datasource/src/main/java" charset="UTF-8" />
   </component>
 </project>

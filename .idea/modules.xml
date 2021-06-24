@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jpa/jpa.iml" filepath="$PROJECT_DIR$/jpa/jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/multidb/multidb.iml" filepath="$PROJECT_DIR$/multidb/multidb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multidb_dynamic_datasource/multidb_dynamic_datasource.iml" filepath="$PROJECT_DIR$/multidb_dynamic_datasource/multidb_dynamic_datasource.iml" />
     </modules>
   </component>
 </project>

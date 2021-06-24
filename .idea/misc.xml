@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/multidb/pom.xml" />
         <option value="$PROJECT_DIR$/jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/multidb_dynamic_datasource/pom.xml" />
       </list>
     </option>
   </component>
