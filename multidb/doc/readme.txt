@@ -1,5 +1,5 @@
 
-使用配置的方式实现连接多个数据库
+使用配置的方式实现单个springboot程序连接多个数据库
 
 http://www.mydlq.club/article/105/
 
