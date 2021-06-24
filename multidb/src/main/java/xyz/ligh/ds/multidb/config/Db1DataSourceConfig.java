@@ -27,6 +27,8 @@ public class Db1DataSourceConfig {
 
     /**
      * 配置数据源，这里设置为 hikari 数据库连接池
+     *
+     * ConfigurationProperties  中的内容必须和application.properties中的前缀匹配
      * @return DataSource
      */
     @Primary
