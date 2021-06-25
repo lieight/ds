@@ -8,18 +8,23 @@
         <outputRelativeToContentRoot value="true" />
         <module name="multidb_dynamic_datasource" />
         <module name="multidb" />
-        <module name="jpa" />
+        <module name="ds_home_server" />
+        <module name="jpa_mysql" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ds_home_server" target="1.8" />
       <module name="jpa" target="1.8" />
+      <module name="jpa_mysql" target="1.8" />
       <module name="multidb" target="1.8" />
       <module name="multidb_dynamic_datasource" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ds_home_server" options="-parameters" />
       <module name="jpa" options="-parameters" />
+      <module name="jpa_mysql" options="-parameters" />
       <module name="multidb" options="-parameters" />
       <module name="multidb_dynamic_datasource" options="-parameters" />
     </option>

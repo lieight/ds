@@ -4,8 +4,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/multidb/pom.xml" />
-        <option value="$PROJECT_DIR$/jpa/pom.xml" />
         <option value="$PROJECT_DIR$/multidb_dynamic_datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa_mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/ds_home_server/pom.xml" />
       </list>
     </option>
   </component>
